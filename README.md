@@ -1,2 +1,2 @@
 # sspi
-Simple Sort of Python Imports
+Simple Sorting of Python Imports
